@@ -15,9 +15,8 @@
 
 package Reciept;
 
-use Product;
-
 use lib 'lib';
+use Product;
 use strict;
 use warnings;
 
